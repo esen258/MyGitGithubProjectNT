@@ -12,5 +12,7 @@ public class AtmProject {
         //version4
         System.out.println("esen'in komutlar tamam");
         //version esen
+        System.out.println("bağzı kodlar");
+        //esen2
     }
 }
