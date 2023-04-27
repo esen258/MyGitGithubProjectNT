@@ -14,5 +14,12 @@ public class AtmProject {
         //version esen
         System.out.println("bağzı kodlar");
         //esen2
+
+        System.out.println();
+        //esen3
+
+        System.out.println();
+        //localde degisiklik yaptim
+
     }
 }

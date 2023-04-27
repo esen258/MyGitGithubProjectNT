@@ -1,5 +1,5 @@
 package Githup_Notes;
-gitpublic class day01 {
+ class day01 {
     public static void main(String[] args){
         /*Git - Github nedir?
     Git versiyon kontrol sistemi iken,  Github bu sistemi kullanan depolama servisleri denilebilir.
